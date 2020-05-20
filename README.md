@@ -1,2 +1,2 @@
-# logowanie
-formularz logowania w C# z połączeniem do bazy SQL
+# Login window
+Login/regiser windows using .net framework with connection to SQL data base
